@@ -1,2 +1,2 @@
 # bridgelabz
-all version of employee felloship in shell script
+all use case of employee wage in shell script
