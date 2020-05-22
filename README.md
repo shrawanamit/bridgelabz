@@ -1,2 +1,2 @@
 # bridgelabz
-all use case of employee wage in shell script
+All Use Case of Employee Wage Problem in shell script Using Bash
